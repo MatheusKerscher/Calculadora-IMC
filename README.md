@@ -18,7 +18,7 @@ A calculadora foi desenvolvida usando:
 
 Para visualizar como esse projeto ficou, clique <a target="_blank" href="https://matheuskerscher.github.io/Calculadora-IMC/">aqui</a>.
 
-Para ver o tutorial no Youtube sobre a construção da calculadora clique <a target="_blank" href="">aqui</a>.
+Para ver o tutorial no Youtube sobre a construção da calculadora clique <a target="_blank" href="https://www.youtube.com/watch?v=RacwEvoTz_Y">aqui</a>.
 
 ##
 
